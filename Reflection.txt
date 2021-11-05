@@ -1,0 +1,12 @@
+
+What did you learn? What did you know already?
+	I learned how to set up unreal engine with git.
+
+What was difficult in the lab? How did you overcome it?
+	Nothing in particular
+
+How can the lab be improved?
+	-
+
+Additionally, give an estimate of how many hours you spent on this lab.
+	1h
